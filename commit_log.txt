@@ -8,3 +8,4 @@ Commit 7: Design Navbar component
 Commit 8: Implement responsive mobile menu
 Commit 9: Build Hero section with animations
 Commit 10: Add framer-motion library
+Commit 11: Create PropertyCard component
