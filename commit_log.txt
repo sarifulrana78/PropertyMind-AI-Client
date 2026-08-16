@@ -14,3 +14,4 @@ Commit 13: Add placeholder images and UI elements
 Commit 14: Build AI features section
 Commit 15: Design statistics and analytics preview
 Commit 16: Create Testimonial carousel
+Commit 17: Build FAQ section with accordion
