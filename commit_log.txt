@@ -1,2 +1,3 @@
 Commit 1: Initialize Next.js project
 Commit 2: Add Tailwind CSS configuration
+Commit 3: Set up project structure and folders
