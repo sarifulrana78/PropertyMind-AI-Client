@@ -18,3 +18,4 @@ Commit 17: Build FAQ section with accordion
 Commit 18: Design Newsletter signup form
 Commit 19: Build comprehensive Footer
 Commit 20: Add React Hook Form for validation
+Commit 21: Create Login page UI
