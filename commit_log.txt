@@ -20,3 +20,4 @@ Commit 19: Build comprehensive Footer
 Commit 20: Add React Hook Form for validation
 Commit 21: Create Login page UI
 Commit 22: Create Registration page UI
+Commit 23: Add loading skeletons and spinners
