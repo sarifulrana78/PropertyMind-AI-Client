@@ -2,3 +2,4 @@ Commit 1: Initialize Next.js project
 Commit 2: Add Tailwind CSS configuration
 Commit 3: Set up project structure and folders
 Commit 4: Add custom font and typography
+Commit 5: Create global CSS variables
