@@ -5,3 +5,4 @@ Commit 4: Add custom font and typography
 Commit 5: Create global CSS variables
 Commit 6: Add lucide-react icons
 Commit 7: Design Navbar component
+Commit 8: Implement responsive mobile menu
