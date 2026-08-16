@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Building2, Mail, Phone, MapPin, Twitter, Github, Linkedin, Instagram } from 'lucide-react';
+import { Building2, Mail, Phone, MapPin, MessageSquare, Code2, Briefcase, Camera } from 'lucide-react';
 
 const footerLinks = {
   Platform: [
@@ -23,10 +23,10 @@ const footerLinks = {
 };
 
 const socialLinks = [
-  { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
-  { icon: Github, href: 'https://github.com', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-  { icon: Instagram, href: 'https://instagram.com', label: 'Instagram' },
+  { icon: MessageSquare, href: 'https://twitter.com', label: 'Twitter' },
+  { icon: Code2, href: 'https://github.com', label: 'GitHub' },
+  { icon: Briefcase, href: 'https://linkedin.com', label: 'LinkedIn' },
+  { icon: Camera, href: 'https://instagram.com', label: 'Instagram' },
 ];
 
 export default function Footer() {

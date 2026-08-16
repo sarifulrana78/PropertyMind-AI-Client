@@ -93,7 +93,7 @@
 
   /* Property card */
   .property-card {
-    @apply glass-card overflow-hidden group cursor-pointer transition-all duration-300 hover:scale-[1.02] hover:shadow-2xl hover:shadow-primary-500/10 hover:border-primary-500/30;
+    @apply glass-card overflow-hidden cursor-pointer transition-all duration-300 hover:scale-[1.02] hover:shadow-2xl hover:shadow-primary-500/10 hover:border-primary-500/30;
   }
 
   /* Skeleton loader */
