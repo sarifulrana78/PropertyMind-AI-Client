@@ -4,3 +4,4 @@ Commit 3: Set up project structure and folders
 Commit 4: Add custom font and typography
 Commit 5: Create global CSS variables
 Commit 6: Add lucide-react icons
+Commit 7: Design Navbar component
