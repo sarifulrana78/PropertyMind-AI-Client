@@ -27,3 +27,4 @@ Commit 26: Add search and filtering UI
 Commit 27: Build single property details view
 Commit 28: Add AI Advisor chat interface
 Commit 29: Optimize images and performance
+Commit 30: Final UI polish and responsive fixes
