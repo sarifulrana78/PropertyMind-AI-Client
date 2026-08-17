@@ -30,3 +30,4 @@ Commit 29: Optimize images and performance
 Commit 30: Final UI polish and responsive fixes
 Commit 31: Enhance UI accessibility across components
 Commit 32: Update typography and color contrast
+Commit 33: Refactor AI chat component to use custom hook
