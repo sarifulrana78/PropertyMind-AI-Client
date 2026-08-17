@@ -33,3 +33,4 @@ Commit 32: Update typography and color contrast
 Commit 33: Refactor AI chat component to use custom hook
 Commit 34: Add framer-motion page transitions
 Commit 35: Fix mobile responsiveness on property details
+Commit 36: Improve error boundary handling
