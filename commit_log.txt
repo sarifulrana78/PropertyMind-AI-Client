@@ -36,3 +36,4 @@ Commit 35: Fix mobile responsiveness on property details
 Commit 36: Improve error boundary handling
 Commit 37: Update SEO metadata for main pages
 Commit 38: Optimize image loading with next/image
+Commit 39: Add loading skeletons for market analytics
